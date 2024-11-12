@@ -2,7 +2,7 @@
 Ubuntu bash script for handling the creation and restoration of backup tarballs. This is not a whole image backup, but rather a backup of standard directories used for logs, programs, and user created contents.
 
 <sup> Also, before anyone says it; I am well aware there are plenty of backup utilities already.
-I just made this to fit my needs, and felt as thought it wouldn't hurt to share with the community.
+I just made this to fit my needs, and felt as though it wouldn't hurt to share with the community.
 </sup>
 # Functions / Features
 ```
